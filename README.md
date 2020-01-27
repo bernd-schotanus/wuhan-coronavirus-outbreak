@@ -4,6 +4,7 @@
 |-------------|---------:|-----:|-------------------------------------
 | Australia   |        5 |      | http://go2.pt/hbStAL
 | Canada      |        2 |      | http://go2.pt/uzQuIp
+| Cambodia    |        1 |      | http://go2.pt/qcC9U8
 | China       |     2827 |   82 | http://go2.pt/AoCM6l
 | France      |        3 |      | http://go2.pt/qcC9U8
 | Hong Kong   |        8 |      | http://go2.pt/3s6SYk
