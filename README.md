@@ -11,7 +11,7 @@
 | Macau       |        5 |      | http://go2.pt/3s6SYk
 | Malaysia    |        4 |      | http://go2.pt/BhFs2q
 | Nepal       |        1 |      | http://go2.pt/hbStAL
-| Singapore   |        4 |      | http://go2.pt/hbStAL
+| Singapore   |        5 |      | http://go2.pt/umBhSz
 | South Korea |        4 |      | http://go2.pt/hbStAL
 | Sri Lanka   |        1 |      | http://go2.pt/YTDfQZ
 | Taiwan      |        4 |      | http://go2.pt/YiuHeN
