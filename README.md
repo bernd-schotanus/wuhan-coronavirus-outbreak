@@ -6,7 +6,7 @@
 | Canada      |        1 |      | http://go2.pt/hbStAL
 | China       |     2827 |   81 | http://go2.pt/hbStAL
 | France      |        3 |      | http://go2.pt/qcC9U8
-| Hong Kong   |       80 |      | http://go2.pt/3s6SYk
+| Hong Kong   |        8 |      | http://go2.pt/3s6SYk
 | Japan       |        4 |      | http://go2.pt/qcC9U8
 | Macau       |        5 |      | http://go2.pt/3s6SYk
 | Malaysia    |        4 |      | http://go2.pt/BhFs2q
