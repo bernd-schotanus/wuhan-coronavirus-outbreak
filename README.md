@@ -9,7 +9,7 @@
 | France      |        3 |      | http://go2.pt/qcC9U8
 | Hong Kong   |        8 |      | http://go2.pt/3s6SYk
 | Japan       |        4 |      | http://go2.pt/qcC9U8
-| Macau       |        5 |      | http://go2.pt/3s6SYk
+| Macau       |        6 |      | http://go2.pt/lw-E8Z
 | Malaysia    |        4 |      | http://go2.pt/BhFs2q
 | Nepal       |        1 |      | http://go2.pt/hbStAL
 | Singapore   |        5 |      | http://go2.pt/umBhSz
