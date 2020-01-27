@@ -1,7 +1,7 @@
 # Wuhan Coronavirus Outbreak
 
 | Country     | Infected | Dead | Report
-|-------------|----------|------|----------------------
+|-------------|---------:|-----:|----------------------
 | Australia   |        3 |      | http://go2.pt/qcC9U8
 | China       |     2454 |   80 | http://go2.pt/3s6SYk
 | France      |        3 |      | http://go2.pt/qcC9U8
