@@ -4,7 +4,7 @@
 |-------------|---------:|-----:|-------------------------------------
 | Australia   |        5 |      | http://go2.pt/hbStAL
 | Canada      |        2 |      | http://go2.pt/uzQuIp
-| China       |     2827 |   82 | http://go2.pt/hbStAL + http://go2.pt/0uuhEo
+| China       |     2827 |   82 | http://go2.pt/AoCM6l
 | France      |        3 |      | http://go2.pt/qcC9U8
 | Hong Kong   |        8 |      | http://go2.pt/3s6SYk
 | Japan       |        4 |      | http://go2.pt/qcC9U8
@@ -18,4 +18,3 @@
 | Thailand    |        8 |      | http://go2.pt/qcC9U8
 | USA         |        5 |      | http://go2.pt/EmvvBf
 | Vietnam     |        2 |      | http://go2.pt/qcC9U8
-
