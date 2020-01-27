@@ -3,7 +3,7 @@
 | Country     | Infected | Dead | Report
 |-------------|---------:|-----:|----------------------
 | Australia   |        5 |      | http://go2.pt/hbStAL
-| Canada      |        1 |      | http://go2.pt/hbStAL
+| Canada      |        2 |      | http://go2.pt/uzQuIp
 | China       |     2827 |   81 | http://go2.pt/hbStAL
 | France      |        3 |      | http://go2.pt/qcC9U8
 | Hong Kong   |        8 |      | http://go2.pt/3s6SYk
