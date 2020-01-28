@@ -17,6 +17,6 @@
 | South Korea |        4 |      | [link](https://www.bbc.com/news/world-asia-china-51259649)
 | Sri Lanka   |        1 |      | [link](https://www.ft.com/content/11e019c2-fbdb-3c50-a7fe-d15cec8648c7)
 | Taiwan      |        5 |      | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
-| Thailand    |        8 |      | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
+| Thailand    |        14 |      | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
 | USA         |        5 |      | [link](https://www.fox29.com/news/arizona-resident-is-5th-confirmed-case-of-coronavirus-in-us)
 | Vietnam     |        2 |      | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
