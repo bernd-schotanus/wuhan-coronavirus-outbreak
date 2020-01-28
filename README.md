@@ -13,7 +13,7 @@
 | Macau       |        6 |      | [link](https://www.macaubusiness.com/sixth-pneumonia-virus-case-confirmed-in-macau/)
 | Malaysia    |        4 |      | [link](https://www.thestar.com.my/news/nation/2020/01/26/wuhan-virus-fourth-victim-confirmed-in-malaysia)
 | Nepal       |        1 |      | [link](https://www.bbc.com/news/world-asia-china-51259649)
-| Singapore   |        5 |      | [link](https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-fifth-confirmed-case-moh-12359140?cid=telegram_cna_social_28112017_cna&fbclid=IwAR3l-dJ33ds_aJt-Jn3kQiOqQQBlWDGER66s2PCpu1h37zV64yDFD3G3I_M)
+| Singapore   |        7 |      | [link](https://www.straitstimes.com/singapore/wuhan-virus-7-confirmed-cases-in-singapore-no-entry-or-transit-for-new-visitors-with-hubei)
 | South Korea |        4 |      | [link](https://www.bbc.com/news/world-asia-china-51259649)
 | Sri Lanka   |        1 |      | [link](https://www.ft.com/content/11e019c2-fbdb-3c50-a7fe-d15cec8648c7)
 | Taiwan      |        4 |      | [link](https://www.aljazeera.com/news/2020/01/china-battles-coronavirus-outbreak-latest-updates-200125233944134.html)
