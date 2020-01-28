@@ -5,7 +5,7 @@
 | Australia   |        5 |      | [link](https://www.bbc.com/news/world-asia-china-51259649)
 | Canada      |        2 |      | [link](https://www.cbc.ca/news/canada/toronto/coronavirus-wuhan-ontario-second-case-1.5441401)
 | Cambodia    |        1 |      | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
-| China       |     4524 |  106 | [link](https://www.bbc.com/news/world-51235105)
+| China       |     5517 |  131 | [link](https://3g.dxy.cn/newh5/view/pneumonia)
 | France      |        3 |      | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
 | Germany     |        4 |      | [link](https://www.n-tv.de/panorama/Bereits-vier-Coronavirus-Faelle-in-Bayern-article21540544.html)
 | Hong Kong   |        8 |      | [link](https://www.scmp.com/news/china/society/article/3047716/china-bans-wildlife-trade-killer-wuhan-coronavirus-spreads)
