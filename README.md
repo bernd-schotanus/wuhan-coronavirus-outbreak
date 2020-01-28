@@ -2,21 +2,21 @@
 
 | Country     | Infected | Dead | Report
 |-------------|---------:|-----:|-------------------------------------
-| Australia   |        5 |      | http://go2.pt/hbStAL
-| Canada      |        2 |      | http://go2.pt/uzQuIp
-| Cambodia    |        1 |      | http://go2.pt/qcC9U8
-| China       |     4231 |  106 | http://go2.pt/HaoE5y
-| France      |        3 |      | http://go2.pt/qcC9U8
-| Germany     |        1 |      | http://go2.pt/sys4dt
-| Hong Kong   |        8 |      | http://go2.pt/3s6SYk
-| Japan       |        4 |      | http://go2.pt/qcC9U8
-| Macau       |        6 |      | http://go2.pt/lw-E8Z
-| Malaysia    |        4 |      | http://go2.pt/BhFs2q
-| Nepal       |        1 |      | http://go2.pt/hbStAL
-| Singapore   |        5 |      | http://go2.pt/umBhSz
-| South Korea |        4 |      | http://go2.pt/hbStAL
-| Sri Lanka   |        1 |      | http://go2.pt/YTDfQZ
-| Taiwan      |        4 |      | http://go2.pt/YiuHeN
-| Thailand    |        8 |      | http://go2.pt/qcC9U8
-| USA         |        5 |      | http://go2.pt/EmvvBf
-| Vietnam     |        2 |      | http://go2.pt/qcC9U8
+| Australia   |        5 |      | [link](https://www.bbc.com/news/world-asia-china-51259649)
+| Canada      |        2 |      | [link](https://www.cbc.ca/news/canada/toronto/coronavirus-wuhan-ontario-second-case-1.5441401)
+| Cambodia    |        1 |      | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
+| China       |     4231 |  106 | [link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
+| France      |        3 |      | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
+| Germany     |        1 |      | [link](https://www.spiegel.de/wissenschaft/medizin/corona-virus-erster-fall-in-deutschland-bestaetigt-a-19843b8d-8694-451f-baf7-0189d3356f99?sara_ecid=soci_upd_KsBF0AFjflf0DZCxpPYDCQgO1dEMph)
+| Hong Kong   |        8 |      | [link](https://www.scmp.com/news/china/society/article/3047716/china-bans-wildlife-trade-killer-wuhan-coronavirus-spreads)
+| Japan       |        4 |      | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
+| Macau       |        6 |      | [link](https://www.macaubusiness.com/sixth-pneumonia-virus-case-confirmed-in-macau/)
+| Malaysia    |        4 |      | [link](https://www.thestar.com.my/news/nation/2020/01/26/wuhan-virus-fourth-victim-confirmed-in-malaysia)
+| Nepal       |        1 |      | [link](https://www.bbc.com/news/world-asia-china-51259649)
+| Singapore   |        5 |      | [link](https://www.channelnewsasia.com/news/singapore/wuhan-virus-singapore-fifth-confirmed-case-moh-12359140?cid=telegram_cna_social_28112017_cna&fbclid=IwAR3l-dJ33ds_aJt-Jn3kQiOqQQBlWDGER66s2PCpu1h37zV64yDFD3G3I_M)
+| South Korea |        4 |      | [link](https://www.bbc.com/news/world-asia-china-51259649)
+| Sri Lanka   |        1 |      | [link](https://www.ft.com/content/11e019c2-fbdb-3c50-a7fe-d15cec8648c7)
+| Taiwan      |        4 |      | [link](https://www.aljazeera.com/news/2020/01/china-battles-coronavirus-outbreak-latest-updates-200125233944134.html)
+| Thailand    |        8 |      | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
+| USA         |        5 |      | [link](https://www.fox29.com/news/arizona-resident-is-5th-confirmed-case-of-coronavirus-in-us)
+| Vietnam     |        2 |      | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
