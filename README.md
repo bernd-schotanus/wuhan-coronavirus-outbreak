@@ -7,7 +7,7 @@
 | Cambodia    |        1 |      | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
 | China       |     4524 |  106 | [link](https://www.bbc.com/news/world-51235105)
 | France      |        3 |      | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
-| Germany     |        1 |      | [link](https://www.spiegel.de/wissenschaft/medizin/corona-virus-erster-fall-in-deutschland-bestaetigt-a-19843b8d-8694-451f-baf7-0189d3356f99?sara_ecid=soci_upd_KsBF0AFjflf0DZCxpPYDCQgO1dEMph)
+| Germany     |        4 |      | [link](https://www.n-tv.de/panorama/Bereits-vier-Coronavirus-Faelle-in-Bayern-article21540544.html)
 | Hong Kong   |        8 |      | [link](https://www.scmp.com/news/china/society/article/3047716/china-bans-wildlife-trade-killer-wuhan-coronavirus-spreads)
 | Japan       |        4 |      | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
 | Macau       |        6 |      | [link](https://www.macaubusiness.com/sixth-pneumonia-virus-case-confirmed-in-macau/)
