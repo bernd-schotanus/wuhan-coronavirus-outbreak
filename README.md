@@ -7,7 +7,7 @@ The following table displays information regarding **_reported cases_** of the 2
 | Australia   |     5 |        | [link](https://www.bbc.com/news/world-asia-china-51259649)
 | Canada      |     2 |        | [link](https://www.cbc.ca/news/canada/toronto/coronavirus-wuhan-ontario-second-case-1.5441401)
 | Cambodia    |     1 |        | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
-| China       | 5,974	|    132 | [link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
+| China       | 6,152	|    132 | [link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
 | France      |     4 |        | [link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
 | Germany     |     4 |        | [link](https://www.n-tv.de/panorama/Bereits-vier-Coronavirus-Faelle-in-Bayern-article21540544.html)
 | Hong Kong   |     8 |        | [link](https://www.scmp.com/news/china/society/article/3047716/china-bans-wildlife-trade-killer-wuhan-coronavirus-spreads)
