@@ -7,7 +7,7 @@ The following table displays information regarding **_confirmed_** cases of the 
 | Australia   |     7 |        | [link](https://www.abc.net.au/news/2020-01-29/victoria-confirms-second-case-of-coronavirus/11911076)
 | Canada      |     3 |        | [link](https://bc.ctvnews.ca/b-c-confirms-province-s-first-presumptive-positive-case-of-new-coronavirus-1.4786706)
 | Cambodia    |     1 |        | [link](https://www.aljazeera.com/news/2020/01/countries-confirmed-cases-coronavirus-200125070959786.html)
-| China       | 6,055	|    132 | [link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
+| China       | 7,801	|    170 | [link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
 | Finland     |     1 |        | [link](https://yle.fi/uutiset/3-11181717)
 | France      |     5 |        | [link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
 | Germany     |     4 |        | [link](https://www.n-tv.de/panorama/Bereits-vier-Coronavirus-Faelle-in-Bayern-article21540544.html)
