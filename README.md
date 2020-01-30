@@ -12,6 +12,7 @@ The following table displays information regarding **_confirmed_** cases of the 
 | France      |     5 |        | [link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
 | Germany     |     4 |        | [link](https://www.n-tv.de/panorama/Bereits-vier-Coronavirus-Faelle-in-Bayern-article21540544.html)
 | Hong Kong   |     8 |        | [link](https://www.scmp.com/news/china/society/article/3047716/china-bans-wildlife-trade-killer-wuhan-coronavirus-spreads)
+| India       |     1 |        | [link](https://www.thehindu.com/news/national/coronavirus-student-from-wuhan-university-tests-positive-in-kerala/article30691004.ece)
 | Japan       |     7 |        | [link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
 | Macau       |     7 |        | [link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
 | Malaysia    |     7 |        | [link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
