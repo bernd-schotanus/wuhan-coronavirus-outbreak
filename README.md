@@ -16,6 +16,7 @@ The following table displays information regarding **_confirmed_** cases of the 
 | Macau       |     7 |        | [link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
 | Malaysia    |     7 |        | [link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
 | Nepal       |     1 |        | [link](https://www.bbc.com/news/world-asia-china-51259649)
+| Philippines |     1 |        | [link](https://www.rappler.com/nation/186633-philippines-confirms-case-novel-coronavirus)
 | Singapore   |    10 |        | [link](https://bnonews.com/index.php/2020/01/the-latest-coronavirus-cases/)
 | South Korea |     4 |        | [link](https://www.bbc.com/news/world-asia-china-51259649)
 | Sri Lanka   |     1 |        | [link](https://www.ft.com/content/11e019c2-fbdb-3c50-a7fe-d15cec8648c7)
